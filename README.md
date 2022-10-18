@@ -1,6 +1,6 @@
-#### Last name:
-#### First name:
-#### Github username:
+#### Last name: Lojacono
+#### First name: Samuel David
+#### Github username: sdl5384
 
 #### Instructions:
 Fill out the top of this form, commit and push it back to GitHub.
